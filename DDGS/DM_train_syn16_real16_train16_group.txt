@@ -1,0 +1,366 @@
+Initialized 100 model placeholders (10 per class)
+Loading pretrained checkpoints from /root/autodl-tmp//Rescheckpoints/ImageNet_woof/GaussianImage_50000_2500
+Successfully loaded 100 pretrained models
+Starting distribution matching phase...
+Evaluating trained models...
+Evaluating classification accuracy using evaluate_synset...
+Evaluation 1: Classification accuracy = 0.1140
+Evaluation 2: Classification accuracy = 0.1220
+Evaluation 3: Classification accuracy = 0.1480
+Evaluate 3 random networks:
+  Network 1: 0.1140
+  Network 2: 0.1220
+  Network 3: 0.1480
+Classification Accuracy: 0.1280 $\pm$ 0.0145
+Saving synthetic images...
+DM iter = 0000, loss = 597.351250
+DM iter = 0100, loss = 373.484102
+DM iter = 0200, loss = 384.206484
+DM iter = 0300, loss = 362.417695
+DM iter = 0400, loss = 339.329961
+DM iter = 0500, loss = 318.635117
+DM iter = 0600, loss = 356.471055
+DM iter = 0700, loss = 364.610820
+DM iter = 0800, loss = 340.358320
+DM iter = 0900, loss = 334.470391
+DM iter = 1000, loss = 324.035039
+DM iter = 1100, loss = 349.471445
+DM iter = 1200, loss = 345.649648
+DM iter = 1300, loss = 353.941680
+DM iter = 1400, loss = 337.165664
+DM iter = 1500, loss = 342.873867
+DM iter = 1600, loss = 361.280469
+DM iter = 1700, loss = 349.938086
+DM iter = 1800, loss = 351.309375
+DM iter = 1900, loss = 346.864141
+Evaluating trained models...
+Evaluating classification accuracy using evaluate_synset...
+Classification evaluation 1 failed: CUDA out of memory. Tried to allocate 4.00 GiB (GPU 0; 23.53 GiB total capacity; 13.40 GiB already allocated; 1.68 GiB free; 21.30 GiB reserved in total by PyTorch) If reserved memory is >> allocated memory try setting max_split_size_mb to avoid fragmentation.  See documentation for Memory Management and PYTORCH_CUDA_ALLOC_CONF
+Initialized 100 Gaussian model placeholders (10 per class)
+Loading pretrained checkpoints from /root/autodl-tmp/GaussianImage/Rescheckpoints/ImageNet_woof/GaussianImage_Cholesky_50000_2500
+Successfully loaded 100 pretrained models
+Starting distribution matching phase...
+Evaluating trained models...
+Evaluating classification accuracy using evaluate_synset...
+Evaluation 1: Classification accuracy = 0.1140
+Evaluation 2: Classification accuracy = 0.1220
+Evaluation 3: Classification accuracy = 0.1480
+Evaluate 3 random networks:
+  Network 1: 0.1140
+  Network 2: 0.1220
+  Network 3: 0.1480
+Classification Accuracy: 0.1280 $\pm$ 0.0145
+Saving synthetic images...
+DM iter = 0000, loss = 582.468555
+DM iter = 0100, loss = 344.469961
+DM iter = 0200, loss = 313.335938
+DM iter = 0300, loss = 359.690391
+DM iter = 0400, loss = 329.471289
+DM iter = 0500, loss = 308.762344
+DM iter = 0600, loss = 342.724336
+DM iter = 0700, loss = 346.344727
+DM iter = 0800, loss = 320.904980
+DM iter = 0900, loss = 342.630508
+DM iter = 1000, loss = 313.912324
+DM iter = 1100, loss = 365.668711
+DM iter = 1200, loss = 346.675898
+DM iter = 1300, loss = 339.186602
+DM iter = 1400, loss = 366.049258
+DM iter = 1500, loss = 335.203672
+DM iter = 1600, loss = 344.830078
+DM iter = 1700, loss = 335.481523
+DM iter = 1800, loss = 339.424961
+DM iter = 1900, loss = 351.184062
+Evaluating trained models...
+Evaluating classification accuracy using evaluate_synset...
+Evaluation 1: Classification accuracy = 0.1580
+Evaluation 2: Classification accuracy = 0.1840
+Evaluation 3: Classification accuracy = 0.1180
+Evaluate 3 random networks:
+  Network 1: 0.1580
+  Network 2: 0.1840
+  Network 3: 0.1180
+Classification Accuracy: 0.1533 $\pm$ 0.0271
+Saving synthetic images...
+DM iter = 2000, loss = 314.066504
+DM iter = 2100, loss = 351.322930
+DM iter = 2200, loss = 331.723555
+DM iter = 2300, loss = 349.730156
+DM iter = 2400, loss = 365.044688
+DM iter = 2500, loss = 330.048047
+DM iter = 2600, loss = 330.844727
+DM iter = 2700, loss = 349.928789
+DM iter = 2800, loss = 350.437187
+DM iter = 2900, loss = 316.179551
+DM iter = 3000, loss = 316.217871
+DM iter = 3100, loss = 309.429629
+DM iter = 3200, loss = 311.951816
+DM iter = 3300, loss = 340.981484
+DM iter = 3400, loss = 324.028691
+DM iter = 3500, loss = 350.686914
+DM iter = 3600, loss = 314.123633
+DM iter = 3700, loss = 341.886719
+DM iter = 3800, loss = 333.726836
+DM iter = 3900, loss = 323.163770
+Evaluating trained models...
+Evaluating classification accuracy using evaluate_synset...
+Evaluation 1: Classification accuracy = 0.1780
+Evaluation 2: Classification accuracy = 0.1520
+Evaluation 3: Classification accuracy = 0.1820
+Evaluate 3 random networks:
+  Network 1: 0.1780
+  Network 2: 0.1520
+  Network 3: 0.1820
+Classification Accuracy: 0.1707 $\pm$ 0.0133
+Saving synthetic images...
+DM iter = 4000, loss = 335.216953
+DM iter = 4100, loss = 370.022656
+DM iter = 4200, loss = 337.850937
+DM iter = 4300, loss = 331.607813
+DM iter = 4400, loss = 311.409492
+DM iter = 4500, loss = 353.703125
+DM iter = 4600, loss = 322.509375
+DM iter = 4700, loss = 343.979570
+DM iter = 4800, loss = 357.381602
+DM iter = 4900, loss = 325.328652
+DM iter = 5000, loss = 336.987656
+DM iter = 5100, loss = 313.575977
+DM iter = 5200, loss = 311.538398
+DM iter = 5300, loss = 321.527812
+DM iter = 5400, loss = 347.214648
+DM iter = 5500, loss = 323.067617
+DM iter = 5600, loss = 307.185918
+DM iter = 5700, loss = 369.221875
+DM iter = 5800, loss = 352.453164
+DM iter = 5900, loss = 347.802930
+Evaluating trained models...
+Evaluating classification accuracy using evaluate_synset...
+Evaluation 1: Classification accuracy = 0.1420
+Evaluation 2: Classification accuracy = 0.1580
+Evaluation 3: Classification accuracy = 0.1300
+Evaluate 3 random networks:
+  Network 1: 0.1420
+  Network 2: 0.1580
+  Network 3: 0.1300
+Classification Accuracy: 0.1433 $\pm$ 0.0115
+Saving synthetic images...
+DM iter = 6000, loss = 338.162656
+DM iter = 6100, loss = 326.608887
+DM iter = 6200, loss = 362.319687
+DM iter = 6300, loss = 339.915352
+DM iter = 6400, loss = 316.935137
+DM iter = 6500, loss = 329.009219
+DM iter = 6600, loss = 339.819453
+DM iter = 6700, loss = 328.723437
+DM iter = 6800, loss = 361.203125
+DM iter = 6900, loss = 360.641367
+DM iter = 7000, loss = 334.314297
+DM iter = 7100, loss = 347.961602
+DM iter = 7200, loss = 338.017734
+DM iter = 7300, loss = 315.158437
+DM iter = 7400, loss = 340.715703
+DM iter = 7500, loss = 333.936797
+DM iter = 7600, loss = 362.387187
+DM iter = 7700, loss = 363.793437
+DM iter = 7800, loss = 356.257148
+DM iter = 7900, loss = 329.713789
+Evaluating trained models...
+Evaluating classification accuracy using evaluate_synset...
+Evaluation 1: Classification accuracy = 0.1960
+Evaluation 2: Classification accuracy = 0.1440
+Evaluation 3: Classification accuracy = 0.1720
+Evaluate 3 random networks:
+  Network 1: 0.1960
+  Network 2: 0.1440
+  Network 3: 0.1720
+Classification Accuracy: 0.1707 $\pm$ 0.0212
+Saving synthetic images...
+DM iter = 8000, loss = 331.040039
+DM iter = 8100, loss = 317.966445
+DM iter = 8200, loss = 336.958906
+DM iter = 8300, loss = 314.331387
+DM iter = 8400, loss = 333.413125
+DM iter = 8500, loss = 328.969844
+DM iter = 8600, loss = 354.669922
+DM iter = 8700, loss = 344.715781
+DM iter = 8800, loss = 334.827656
+DM iter = 8900, loss = 324.423359
+DM iter = 9000, loss = 335.806484
+DM iter = 9100, loss = 338.774688
+DM iter = 9200, loss = 327.697500
+DM iter = 9300, loss = 324.707168
+DM iter = 9400, loss = 324.781211
+DM iter = 9500, loss = 351.151602
+DM iter = 9600, loss = 332.807187
+DM iter = 9700, loss = 316.884590
+DM iter = 9800, loss = 321.114492
+DM iter = 9900, loss = 358.641836
+Evaluating trained models...
+Evaluating classification accuracy using evaluate_synset...
+Evaluation 1: Classification accuracy = 0.1480
+Evaluation 2: Classification accuracy = 0.1840
+Evaluation 3: Classification accuracy = 0.1600
+Evaluate 3 random networks:
+  Network 1: 0.1480
+  Network 2: 0.1840
+  Network 3: 0.1600
+Classification Accuracy: 0.1640 $\pm$ 0.0150
+Saving synthetic images...
+DM iter = 10000, loss = 343.331797
+DM iter = 10100, loss = 348.436719
+DM iter = 10200, loss = 315.495332
+DM iter = 10300, loss = 336.649883
+DM iter = 10400, loss = 342.523711
+DM iter = 10500, loss = 325.601895
+DM iter = 10600, loss = 324.250449
+DM iter = 10700, loss = 340.673828
+DM iter = 10800, loss = 323.018613
+DM iter = 10900, loss = 326.122441
+DM iter = 11000, loss = 302.340156
+DM iter = 11100, loss = 324.198750
+DM iter = 11200, loss = 331.442539
+DM iter = 11300, loss = 325.034648
+DM iter = 11400, loss = 339.351719
+DM iter = 11500, loss = 336.664883
+DM iter = 11600, loss = 349.533750
+DM iter = 11700, loss = 368.416719
+DM iter = 11800, loss = 367.944844
+DM iter = 11900, loss = 337.598281
+Evaluating trained models...
+Evaluating classification accuracy using evaluate_synset...
+Evaluation 1: Classification accuracy = 0.1680
+Evaluation 2: Classification accuracy = 0.1380
+Evaluation 3: Classification accuracy = 0.1500
+Evaluate 3 random networks:
+  Network 1: 0.1680
+  Network 2: 0.1380
+  Network 3: 0.1500
+Classification Accuracy: 0.1520 $\pm$ 0.0123
+Saving synthetic images...
+DM iter = 12000, loss = 320.242363
+DM iter = 12100, loss = 326.203770
+DM iter = 12200, loss = 324.825430
+DM iter = 12300, loss = 340.515430
+DM iter = 12400, loss = 303.665742
+DM iter = 12500, loss = 322.010918
+DM iter = 12600, loss = 357.657734
+DM iter = 12700, loss = 339.599766
+DM iter = 12800, loss = 356.683164
+DM iter = 12900, loss = 335.017734
+DM iter = 13000, loss = 319.345625
+DM iter = 13100, loss = 341.586680
+DM iter = 13200, loss = 327.829687
+DM iter = 13300, loss = 364.034688
+DM iter = 13400, loss = 331.855625
+DM iter = 13500, loss = 346.578359
+DM iter = 13600, loss = 314.193223
+DM iter = 13700, loss = 341.194961
+DM iter = 13800, loss = 358.452930
+DM iter = 13900, loss = 290.208848
+Evaluating trained models...
+Evaluating classification accuracy using evaluate_synset...
+Evaluation 1: Classification accuracy = 0.1980
+Evaluation 2: Classification accuracy = 0.1660
+Evaluation 3: Classification accuracy = 0.1460
+Evaluate 3 random networks:
+  Network 1: 0.1980
+  Network 2: 0.1660
+  Network 3: 0.1460
+Classification Accuracy: 0.1700 $\pm$ 0.0214
+Saving synthetic images...
+DM iter = 14000, loss = 337.906875
+DM iter = 14100, loss = 318.023535
+DM iter = 14200, loss = 338.677656
+DM iter = 14300, loss = 324.484980
+DM iter = 14400, loss = 286.611562
+DM iter = 14500, loss = 313.964219
+DM iter = 14600, loss = 305.916602
+DM iter = 14700, loss = 346.890859
+DM iter = 14800, loss = 328.026133
+DM iter = 14900, loss = 325.349668
+DM iter = 15000, loss = 305.178633
+DM iter = 15100, loss = 326.485547
+DM iter = 15200, loss = 348.247305
+DM iter = 15300, loss = 343.573867
+DM iter = 15400, loss = 334.754375
+DM iter = 15500, loss = 319.417109
+DM iter = 15600, loss = 309.328633
+DM iter = 15700, loss = 350.220625
+DM iter = 15800, loss = 353.107266
+DM iter = 15900, loss = 281.397832
+Evaluating trained models...
+Evaluating classification accuracy using evaluate_synset...
+Evaluation 1: Classification accuracy = 0.1560
+Evaluation 2: Classification accuracy = 0.1700
+Evaluation 3: Classification accuracy = 0.1420
+Evaluate 3 random networks:
+  Network 1: 0.1560
+  Network 2: 0.1700
+  Network 3: 0.1420
+Classification Accuracy: 0.1560 $\pm$ 0.0114
+Saving synthetic images...
+DM iter = 16000, loss = 327.221172
+DM iter = 16100, loss = 353.604844
+DM iter = 16200, loss = 343.844883
+DM iter = 16300, loss = 312.085117
+DM iter = 16400, loss = 344.576406
+DM iter = 16500, loss = 335.390117
+DM iter = 16600, loss = 311.014570
+DM iter = 16700, loss = 342.626250
+DM iter = 16800, loss = 313.331016
+DM iter = 16900, loss = 314.016250
+DM iter = 17000, loss = 318.825449
+DM iter = 17100, loss = 336.402500
+DM iter = 17200, loss = 333.805078
+DM iter = 17300, loss = 307.758047
+DM iter = 17400, loss = 326.885625
+DM iter = 17500, loss = 315.541113
+DM iter = 17600, loss = 339.268594
+DM iter = 17700, loss = 348.654141
+DM iter = 17800, loss = 342.950664
+DM iter = 17900, loss = 344.459219
+Evaluating trained models...
+Evaluating classification accuracy using evaluate_synset...
+Evaluation 1: Classification accuracy = 0.1300
+Evaluation 2: Classification accuracy = 0.1540
+Evaluation 3: Classification accuracy = 0.1400
+Evaluate 3 random networks:
+  Network 1: 0.1300
+  Network 2: 0.1540
+  Network 3: 0.1400
+Classification Accuracy: 0.1413 $\pm$ 0.0098
+Saving synthetic images...
+DM iter = 18000, loss = 334.485742
+DM iter = 18100, loss = 328.823750
+DM iter = 18200, loss = 346.539102
+DM iter = 18300, loss = 326.610254
+DM iter = 18400, loss = 349.365195
+DM iter = 18500, loss = 348.795430
+DM iter = 18600, loss = 329.483047
+DM iter = 18700, loss = 320.401992
+DM iter = 18800, loss = 303.317949
+DM iter = 18900, loss = 323.590820
+DM iter = 19000, loss = 313.894043
+DM iter = 19100, loss = 311.742910
+DM iter = 19200, loss = 350.134766
+DM iter = 19300, loss = 348.495430
+DM iter = 19400, loss = 338.696680
+DM iter = 19500, loss = 307.620859
+DM iter = 19600, loss = 309.410625
+DM iter = 19700, loss = 379.687969
+DM iter = 19800, loss = 327.736680
+DM iter = 19900, loss = 312.599863
+Evaluating trained models...
+Evaluating classification accuracy using evaluate_synset...
+Evaluation 1: Classification accuracy = 0.1400
+Evaluation 2: Classification accuracy = 0.1700
+Evaluation 3: Classification accuracy = 0.1580
+Evaluate 3 random networks:
+  Network 1: 0.1400
+  Network 2: 0.1700
+  Network 3: 0.1580
+Classification Accuracy: 0.1560 $\pm$ 0.0123
+Saving synthetic images...
+Distribution matching training completed!
+DM training time: 12574.0496s
+Final classification accuracy: 0.1560 $\pm$ 0.0123

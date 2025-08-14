@@ -1,43 +1,4 @@
-Initialized 100 model placeholders (10 per class)
-Loading pretrained checkpoints from /root/autodl-tmp//Rescheckpoints/ImageNet_woof/GaussianImage_50000_2500
-Successfully loaded 100 pretrained models
-Starting distribution matching phase...
-Evaluating trained models...
-Evaluating classification accuracy using evaluate_synset...
-Evaluation 1: Classification accuracy = 0.1140
-Evaluation 2: Classification accuracy = 0.1220
-Evaluation 3: Classification accuracy = 0.1480
-Evaluate 3 random networks:
-  Network 1: 0.1140
-  Network 2: 0.1220
-  Network 3: 0.1480
-Classification Accuracy: 0.1280 $\pm$ 0.0145
-Saving synthetic images...
-DM iter = 0000, loss = 597.351250
-DM iter = 0100, loss = 373.484102
-DM iter = 0200, loss = 384.206484
-DM iter = 0300, loss = 362.417695
-DM iter = 0400, loss = 339.329961
-DM iter = 0500, loss = 318.635117
-DM iter = 0600, loss = 356.471055
-DM iter = 0700, loss = 364.610820
-DM iter = 0800, loss = 340.358320
-DM iter = 0900, loss = 334.470391
-DM iter = 1000, loss = 324.035039
-DM iter = 1100, loss = 349.471445
-DM iter = 1200, loss = 345.649648
-DM iter = 1300, loss = 353.941680
-DM iter = 1400, loss = 337.165664
-DM iter = 1500, loss = 342.873867
-DM iter = 1600, loss = 361.280469
-DM iter = 1700, loss = 349.938086
-DM iter = 1800, loss = 351.309375
-DM iter = 1900, loss = 346.864141
-Evaluating trained models...
-Evaluating classification accuracy using evaluate_synset...
-Classification evaluation 1 failed: CUDA out of memory. Tried to allocate 4.00 GiB (GPU 0; 23.53 GiB total capacity; 13.40 GiB already allocated; 1.68 GiB free; 21.30 GiB reserved in total by PyTorch) If reserved memory is >> allocated memory try setting max_split_size_mb to avoid fragmentation.  See documentation for Memory Management and PYTORCH_CUDA_ALLOC_CONF
-Initialized 100 Gaussian model placeholders (10 per class)
-Loading pretrained checkpoints from /root/autodl-tmp/GaussianImage/Rescheckpoints/ImageNet_woof/GaussianImage_Cholesky_50000_2500
+Loading pretrained checkpoints from /root/autodl-tmp//Rescheckpoints/ImageNet_woof/
 Successfully loaded 100 pretrained models
 Starting distribution matching phase...
 Evaluating trained models...

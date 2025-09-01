@@ -1,8 +1,5 @@
-Initialized 100 model placeholders (10 per class)
-Loading pretrained checkpoints from /root/autodl-tmp/Rescheckpoints/ImageNet_woof/50000 iters_2500 points
-Successfully loaded 100 pretrained models
-Starting distribution matching phase...
-Evaluating trained models...
+(10 per class)
+50000 iters_2500 points
 Evaluating classification accuracy using evaluate_synset...
 Evaluation 1: Classification accuracy = 0.1460
 Evaluation 2: Classification accuracy = 0.1280

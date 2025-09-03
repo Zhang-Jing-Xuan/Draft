@@ -1,8 +1,0 @@
-```
-git remote add pytorchDeploy https://github.com/Zhang-Jing-Xuan/pytorchDeploy
-git fetch pytorchDeploy
-git merge --allow-unrelated-histories pytorchDeploy/main -m "Merge"
-mkdir pytorchDeploy
-git commit -m "Move pytorchDeploy files to subdirectory"
-git push origin main
-```
